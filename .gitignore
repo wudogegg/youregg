@@ -1,0 +1,8 @@
+
+*.class
+*.jar
+*.iml
+*.war
+.idea
+out
+db.properties
